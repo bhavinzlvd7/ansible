@@ -1,0 +1,1 @@
+myVM ansible_host=13.92.132.207 ansible_user=bz
